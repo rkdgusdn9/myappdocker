@@ -1,3 +1,5 @@
+**Note: To run this, type cd weather-app/my-app in terminal and npm run start**
+
 # myappdocker
 Assignment 1
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
