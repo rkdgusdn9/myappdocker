@@ -1,0 +1,12 @@
+body {
+  margin: 10;
+  padding: 10;
+  font-family: sans-serif;
+  color: red;
+  background-color: white;
+  background-image: url('./images/weather-1.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-y: -5cm;
+}
+
